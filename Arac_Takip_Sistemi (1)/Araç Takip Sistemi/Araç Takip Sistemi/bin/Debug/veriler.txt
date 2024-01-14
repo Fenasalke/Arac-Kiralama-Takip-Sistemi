@@ -1,0 +1,2 @@
+2,Toyota,Corolla,41FNS411,Sedan,True,900
+1,Fenes Şanlı,Toyota,2.11.2024 00:00:00,7.11.2024 00:00:00,True,0
